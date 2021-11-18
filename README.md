@@ -42,7 +42,7 @@ Seja bem vindo ao meu perfil! Sou estudante de ciência da computação e desenv
 ## 📬 Redes Sociais
 
 [![Linkedin Badge](https://img.shields.io/badge/-Leonardo-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-petta-do-nascimento-75674015b/)](https://www.linkedin.com/in/leonardo-petta-do-nascimento-75674015b/)
-[![Website Badge](https://img.shields.io/badge/-leonardopetta.tech-6b6bfa?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://leonardopetta.tech/portfolio-web/)](https://leonardopetta.tech/portfolio-web/)
+[![Website Badge](https://img.shields.io/badge/-leonardopetta.dev-6b6bfa?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://leonardopetta.dev/portfolio-web/)](https://leonardopetta.dev/portfolio-web/)
 [![Facebook Badge](https://img.shields.io/badge/-leonardo.petta.nascimento-3b5998?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/leonardo.petta.nascimento)](https://www.facebook.com/leonardo.petta.nascimento)
 [![Discord Badge](https://img.shields.io/badge/-leonardopn2337-6b6bfa?style=for-the-badge&logo=discord&logoColor=white&link=https://discord.com/users/214878249208119296)](https://discord.com/users/214878249208119296)
 [![Gmail Badge](https://img.shields.io/badge/-leonardocps9-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:leonardocps9@gmail.com)](mailto:leonardocps9@gmail.com)
@@ -51,6 +51,15 @@ Seja bem vindo ao meu perfil! Sou estudante de ciência da computação e desenv
 
 ## 📈 Métricas
 
+<div align='center'>
+
+<p>
+
 ![leonardopn GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardopn&count_private=true&theme=omni)
-[![leonardopn wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=leonardopn)](https://github.com/leonardopn)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardopn&layout=compact)](https://github.com/anuraghazra/github-readme-stats&theme=omni)
+
+</p>
+
+[![leonardopn wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=leonardopn)](https://github.com/leonardopn)
+
+</div>
