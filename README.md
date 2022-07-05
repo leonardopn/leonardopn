@@ -1,4 +1,6 @@
-# 👋 Olá, seja bem vindo ao meu perfil
+# 👋 Olá, seja bem vindo ao meu perfil.
+
+<img src=".github/logo.gif" />
 
 # 💫 Sobre mim
 
