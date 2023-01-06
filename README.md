@@ -1,4 +1,4 @@
-# 👋 Olá, seja bem vindo ao meu perfil.
+# 👋 Olá, seja bem vindo ao meu perfil
 
 <img src=".github/logo.gif" />
 
@@ -47,5 +47,86 @@ Sou formado em ciência da computação na Universidade Paulista (UNIP) e desenv
 
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/leonardopdn)
 
-  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-  
+## O que vou estudar de javascript em 2023
+
+## React
+
+- Estilização React
+  - Tailwindcss
+  - stitches (COM RESALVAS, talvez no futuro não seja mais mantido por conta do SSR)
+  - Vanila extract (stitches com SSR)
+  - CVA;
+
+- Formulários
+  - RHF + ZOD (Melhor alternativa)
+
+- Gerenciamento de estado
+  - Redux Toolkit - SE VOCÊ AINDA USA REDUX
+  - Jotai
+    - Para substituir context API ou state api;
+    - Melhor para trabalhar com suspense api
+  - Zustand
+    - Para gerenciamento externo de estado (Fora do componentes)
+    - Melhor para substituir o redux
+
+- Frameworks React Importantes
+  - Next - Mais mercado;
+  - Remix;
+  - Astro
+  - Qwik
+
+- Testes
+  - Cypress
+  - Playwright
+  - Jest
+
+- API
+  - TanStack (React query)
+
+- Conceitos do React 2023
+  - Suspense API
+  - Server Components
+  - Streaming SSR
+
+- CMS
+  - Hygraph
+  - Medusa (Melhor pra e-comerce)
+
+- Design
+  - Estudar UI
+  - Estudar UX
+
+## React Native
+
+- Skia;
+- Reanimated V2;
+- Estudar o fabric;
+- Expo
+  - EAS
+  - Expo Router
+
+## Node
+
+- Fastfy
+- NestJS
+- Serverless
+
+## Javascript no geral
+
+- ORM
+  - Prisma
+- Testes
+  - Jest
+  - Vitest
+- Gerenciador de pacotes
+  - Utilizar pnpm e npm ao invés de **yarn**
+
+## Banco de dados
+
+- PostgreSQL
+- Mysql (MariaDB)
+
+## Geral
+
+- Microsserviços
+- GrapQL
